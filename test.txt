@@ -1,0 +1,19 @@
+This is a test file for git
+^Z
+
+
+
+
+
+
+git config --list
+
+git config --list
+git config --list
+type HEAD
+type HEAD
+git config --list
+git config --global user.name "Komal"
+git config --list
+cd
+
